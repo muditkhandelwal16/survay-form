@@ -1,0 +1,42 @@
+.hbutton{
+    margin-top: 20px;
+    margin-left: 1420px;
+    padding: 10px 25px;
+    border-radius: 6px;
+    /*background-color: rgb(67, 126, 252); */
+}
+.hbutton a{
+    color: white;
+    text-decoration: none;
+}
+.feedbackh1{
+    /* margin-bottom: 10px; */
+    font-size: 50px;
+    text-shadow: 5px 5px 5px rgb(121, 121, 121);
+}
+.divider{
+    margin-bottom:50px;
+    border: 1px solid black;
+}
+#mainbody{
+    margin-top: 50px;
+}
+.nameshift{
+    margin-left: 5px;
+}
+.parent1{
+    position: relative;
+}
+.email{
+    width: 508px;
+}
+.age{
+    width: 100px;
+    position: absolute;
+    top: 0px;
+    right: 0px;
+}
+.image{
+    width: 100%;
+    margin-top: 50px;
+}
